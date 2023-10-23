@@ -1,0 +1,8 @@
+ray[data,serve]
+transformers[torch]
+accelerate
+urllib3<1.27
+sentence-transformers
+InstructorEmbedding
+matplotlib
+protobuf<=3.20
